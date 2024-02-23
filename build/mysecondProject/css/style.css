@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.primary-color{
+	background:#2979ff;
+	
+}
+//materialize colors
+
+.secondary-background
+{
+	background:#82b1ff;
+	border:2px solid black;
+	height:400px;
+}
+
+

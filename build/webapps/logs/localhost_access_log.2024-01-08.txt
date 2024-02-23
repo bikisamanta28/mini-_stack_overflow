@@ -1,0 +1,9 @@
+127.0.0.1 - - [08/Jan/2024:11:02:59 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:11:03:03 +0530] "GET /mysecondProject/profile.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:11:03:03 +0530] "GET /mysecondProject/login_page.jsp HTTP/1.1" 200 4690
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:11:03:06 +0530] "POST /mysecondProject/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:11:03:06 +0530] "GET /mysecondProject/profile.jsp HTTP/1.1" 200 6036
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:11:03:18 +0530] "POST /mysecondProject/EditServlet HTTP/1.1" 200 225
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:11:03:32 +0530] "GET /mysecondProject/profile.jsp HTTP/1.1" 200 6029
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:11:03:32 +0530] "GET /mysecondProject/pics/browser.png HTTP/1.1" 200 22476
+0:0:0:0:0:0:0:1 - - [08/Jan/2024:11:03:46 +0530] "POST /mysecondProject/EditServlet HTTP/1.1" 200 194

@@ -1,0 +1,67 @@
+!SESSION 2024-01-06 18:56:22.375 -----------------------------------------------
+eclipse.buildId=3.9.8.202212271250-ga9
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product com.liferay.ide.studio.ui.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.liferay.ide.studio.ui.product
+
+!ENTRY org.eclipse.egit.core 1 0 2024-01-06 18:56:54.668
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.ui.editors 4 10001 2024-01-06 18:56:55.912
+!MESSAGE Ignoring template 'log' since it has no id.
+
+!ENTRY org.eclipse.ui 4 4 2024-01-06 18:56:56.068
+!MESSAGE Referenced part does not exist yet: fast.
+
+!ENTRY org.eclipse.rse.core 1 0 2024-01-06 18:57:12.233
+!MESSAGE Disconnect operation timed out after 120000 milliseconds.
+!SESSION 2024-02-14 16:34:11.874 -----------------------------------------------
+eclipse.buildId=3.9.8.202212271250-ga9
+java.version=11.0.13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product com.liferay.ide.studio.ui.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.liferay.ide.studio.ui.product
+
+!ENTRY org.eclipse.egit.core 1 0 2024-02-14 16:34:46.345
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.ui.editors 4 10001 2024-02-14 16:34:48.504
+!MESSAGE Ignoring template 'log' since it has no id.
+
+!ENTRY org.eclipse.rse.core 1 0 2024-02-14 16:34:55.975
+!MESSAGE Disconnect operation timed out after 120000 milliseconds.
+!SESSION 2024-02-14 16:37:56.964 -----------------------------------------------
+eclipse.buildId=3.9.8.202212271250-ga9
+java.version=11.0.13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product com.liferay.ide.studio.ui.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.liferay.ide.studio.ui.product
+
+!ENTRY org.eclipse.egit.core 1 0 2024-02-14 16:38:21.876
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.ui.editors 4 10001 2024-02-14 16:38:23.386
+!MESSAGE Ignoring template 'log' since it has no id.
+
+!ENTRY org.eclipse.rse.core 1 0 2024-02-14 16:38:38.698
+!MESSAGE Disconnect operation timed out after 120000 milliseconds.
+!SESSION 2024-02-15 21:29:06.170 -----------------------------------------------
+eclipse.buildId=3.9.8.202212271250-ga9
+java.version=11.0.13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product com.liferay.ide.studio.ui.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.liferay.ide.studio.ui.product
+
+!ENTRY org.eclipse.egit.core 1 0 2024-02-15 21:29:13.854
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.ui.editors 4 10001 2024-02-15 21:29:16.058
+!MESSAGE Ignoring template 'log' since it has no id.
+
+!ENTRY org.eclipse.rse.core 1 0 2024-02-15 21:29:25.836
+!MESSAGE Disconnect operation timed out after 120000 milliseconds.
